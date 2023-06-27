@@ -1,0 +1,29 @@
+# Dependency directories
+/node_modules
+/.npm
+
+# Build output
+/dist
+/.sass-cache
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.sublime-*
+
+# Compiled output
+*.log
+*.log.*
+*.bak
+*.lock
+*.pid
+*.seed
+*.backup
+*.swp
+*.out
+*.tmp
+
+# Operating System files
+.DS_Store
+Thumbs.db
+package-lock.json
